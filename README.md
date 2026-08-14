@@ -1,4 +1,4 @@
-# Olá, eu sou o Gustavo 👋
+# Olá, eu sou o Gustavo 🦉
 Professor de ensino técnico e desenvolvedor com foco em Python e soluções para gamificação!
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
